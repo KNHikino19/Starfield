@@ -1,5 +1,4 @@
 ArrayList <Particle> jonathon = new ArrayList <Particle>();
-boolean start = false;
 void setup()
 {
   size(1000,1000);
